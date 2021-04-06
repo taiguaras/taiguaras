@@ -14,8 +14,8 @@ Devops
 ### Frontend
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
-!["CSS3"]("https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white")&nbsp;
-!["Sass"]("https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white")&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)&nbsp;
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
 
 ![](https://img.shields.io/badge/AngularJS-E23237?style=flat&logo=angularjs&logoColor=white)&nbsp;
@@ -30,10 +30,10 @@ Devops
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)&nbsp;
 ![Node](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
 ![ExpressJs](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)&nbsp;
 
-https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white
-https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white
-https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logoColor=fff&logo=postgresql)&nbsp;
 ![](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
@@ -41,7 +41,7 @@ phpmyadmin
 
 ### Fullstack
 
-![Next]()&nbsp;
+![Next](https://img.shields.io/badge/NextJS-CC342D?style=flat&logo=next&logoColor=black)&nbsp;
 
 ### Devops
 ![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat&logo=amazon-aws&logoColor=232F3E)&nbsp; 
