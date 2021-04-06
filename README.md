@@ -1,24 +1,23 @@
-Full Stack Engineer
+#Full Stack Engineer
 
-Tech Background
+##Tech Stack Background
 
 Infra
 QA
 Marketing
 Frontend
 Backend
-FullStack
+Fullstack
 Devops
 
-
-Tech Stack
-
-Frontend
+###Frontend
 HTML
 CSS
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
+Sass
 
-Backend
+
+###Backend
 
 PHP
 ![Node](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
@@ -30,11 +29,13 @@ Ruby
 SQL
 phpmyadmin
 
+###Fullstack
+
 ReactJS
 NextJS
 NodeJS
 
-Devops
+###Devops
 ![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat&logo=amazon-aws&logoColor=232F3E)&nbsp; 
 ![Docker](https://img.shields.io/badge/-Docker-099cec?style=flat&logoColor=fff&logo=docker)&nbsp;
 Bitbucket Pipelines
@@ -42,6 +43,7 @@ Github
 Heroku
 WAMP
 
+###CMS
 Wordpress
 Netlify
 Sanity
