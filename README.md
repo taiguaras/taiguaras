@@ -1,7 +1,9 @@
 # Full Stack Engineer
-
+<div>
 ### Tech Stack Background
+</div>
 
+<div>
 IT Infra&nbsp;
 QA&nbsp;
 Marketing&nbsp;
@@ -9,9 +11,10 @@ Frontend&nbsp;
 Backend&nbsp;
 Fullstack&nbsp;
 Devops&nbsp;
+</div>
 
  <div>
-  <a href="https://github.com/Aspheria">
+  <a href="https://github.com/taiguaras">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taiguaras&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taiguaras&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -79,9 +82,6 @@ Devops&nbsp;
 ![Intercom](https://img.shields.io/badge/Intercom-276bf2?style=flat&logo=intercom&logoColor=white)&nbsp;
 ![Salesforce](https://img.shields.io/badge/Salesforce-009cd9?style=flat&logo=salesforce&logoColor=white)&nbsp;
 ![Hubspot](https://img.shields.io/badge/Hubspot-ec805c?style=flat&logo=hubspot&logoColor=white)&nbsp;
-
-
-
 
 <div>
    <p align="center">Social</p><br>
