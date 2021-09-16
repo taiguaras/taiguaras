@@ -10,6 +10,12 @@ Backend&nbsp;
 Fullstack&nbsp;
 Devops&nbsp;
 
+ <div>
+  <a href="https://github.com/Aspheria">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taiguaras&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taiguaras&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 ### Frontend
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
