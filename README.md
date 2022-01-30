@@ -1,9 +1,7 @@
 # Full Stack Engineer
-<div>
-### Tech Stack Background
-</div>
 
-<div>
+### Tech Stack Background
+
 IT Infra&nbsp;
 QA&nbsp;
 Marketing&nbsp;
@@ -11,7 +9,7 @@ Frontend&nbsp;
 Backend&nbsp;
 Fullstack&nbsp;
 Devops&nbsp;
-</div>
+
 
  <div>
   <a href="https://github.com/taiguaras">
