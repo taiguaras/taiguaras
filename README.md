@@ -33,6 +33,8 @@ Devops&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)&nbsp;
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)&nbsp;
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)&nbsp;
+![tailwindcss](https://img.shields.io/badge/tailwindcss-33B5C2?style=flat&logo=tailwindcss&logoColor=white)&nbsp;
+
 
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
 ![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=flat&logo=gatsby&logoColor=white)&nbsp;
