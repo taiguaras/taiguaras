@@ -1,6 +1,6 @@
 # Full Stack Engineer
 
-### Tech Stack Background
+## Overview
 
 IT Infra&nbsp;
 QA&nbsp;
@@ -11,7 +11,7 @@ Fullstack&nbsp;
 Devops&nbsp;
 <hr>
 
-<a href="https://taiguaras.xyz"> Porfolio </a>
+<a href="https://taiguaras.xyz"> Portfolio </a>
 
  <div>
   <a href="https://github.com/taiguaras">
