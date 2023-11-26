@@ -54,7 +54,7 @@ Devops&nbsp;
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logoColor=fff&logo=postgresql)&nbsp;
-![phpmyadmin](https://img.shields.io/badge/phpmyadmin-404D59?style=flat&logo=phpmyadmin=&logoColor=white)&nbsp;
+![phpMyAdmin](https://img.shields.io/badge/phpmyadmin-white?logo=phpmyadmin)&nbsp;
 
 ### Devops
 
