@@ -83,7 +83,7 @@ Devops&nbsp;
    <p align="center">Social</p><br>
    <p align="center">
        <a href="https://taiguaras.xyz"><img alt="Site" src="https://img.shields.io/badge/-Website-000?style=for-the-badge&logo=gg==&logoColor=white"></a>
-       <a href="https://taiguaras.com.br"><img alt="SiteBR" src="https://img.shields.io/badge/-Website-FFF?style=for-the-badge&logo=gg==&logoColor=black"></a>
+       <a href="https://taiguaras.com.br"><img alt="SiteBR" src="https://img.shields.io/badge/-Shop-FFF?style=for-the-badge&logo=gg==&logoColor=black"></a>
       <a href="https://www.linkedin.com/in/taiguaras"><img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
    </p>
 </div>
