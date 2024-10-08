@@ -13,7 +13,8 @@ Devops&nbsp;
 <hr>
 
 <a href="https://taiguaras.xyz"> Portfolio </a>
-<a href="https://portalboipeba.com"> Portal Boipeba</a>
+<a href="https://taiguaras.com.br"> Template Loja </a>
+
 
  <div>
   <a href="https://github.com/taiguaras">
@@ -87,8 +88,6 @@ Devops&nbsp;
        <a href="https://taiguaras.com.br"><img alt="SiteBR" src="https://img.shields.io/badge/-Website-FFF?style=for-the-badge&logo=gg==&logoColor=black"></a>
       <a href="https://www.linkedin.com/in/taiguaras"><img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
    </p>
-
-<p><a href="https://portalboipeba.com"> Portal Boipeba</a></p>
 </div>
 
 
