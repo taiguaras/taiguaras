@@ -1,14 +1,6 @@
 # Full Stack Engineer
 
 Results-Driven Senior Fullstack Engineer, with Expertise in Ruby on Rails, JavaScript, PHP, Wordpress and AWS.
-
-IT Infra&nbsp;
-QA&nbsp;
-Marketing&nbsp;
-Frontend&nbsp;
-Backend&nbsp;
-Fullstack&nbsp;
-Devops&nbsp;
 <hr>
 
 <a href="https://taiguaras.xyz"> Portfolio </a>
