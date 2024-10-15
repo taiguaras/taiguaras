@@ -85,3 +85,6 @@ Results-Driven Senior Fullstack Engineer, experience of 8+ years in Ruby on Rail
 </div>
 
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=taiguaras)](https://git.io/streak-stats)
+
+
