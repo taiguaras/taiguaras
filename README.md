@@ -16,6 +16,8 @@ Results-Driven Senior Fullstack Engineer, experience of 8+ years in Ruby on Rail
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taiguaras&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=taiguaras)](https://git.io/streak-stats)
+
 ### Frontend
 
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
@@ -85,6 +87,6 @@ Results-Driven Senior Fullstack Engineer, experience of 8+ years in Ruby on Rail
 </div>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=taiguaras)](https://git.io/streak-stats)
+
 
 
