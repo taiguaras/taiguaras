@@ -21,6 +21,7 @@ Results-Driven Senior Fullstack Engineer, experience of 8+ years in Ruby on Rail
 ### Frontend
 
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
+![Typescript](https://img.shields.io/badge/Typescript-FAF9F8?style=flat&logo=typescript&logoColor=3178C6)&nbsp;
 ![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=flat&logo=gatsby&logoColor=white)&nbsp;
 ![Next](https://img.shields.io/badge/NextJS-000?style=flat&logo=next.js&logoColor=white)&nbsp;
 
@@ -34,7 +35,7 @@ Results-Driven Senior Fullstack Engineer, experience of 8+ years in Ruby on Rail
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
 
 ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)&nbsp;
-![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=flat&logo=angularjs&logoColor=white)&nbsp;
+![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=flat&logo=angular&logoColor=white)&nbsp;
 
 
 ### Backend
@@ -56,7 +57,7 @@ Results-Driven Senior Fullstack Engineer, experience of 8+ years in Ruby on Rail
 
 ### Devops
 
-![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat&logo=amazon-aws&logoColor=232F3E)&nbsp; 
+![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat&logo=amazonwebservices&logoColor=232F3E)&nbsp; 
 ![Docker](https://img.shields.io/badge/-Docker-099cec?style=flat&logoColor=fff&logo=docker)&nbsp;
 
 ![Github Actions]( https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)&nbsp;
