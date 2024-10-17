@@ -20,7 +20,7 @@ Results-Driven Senior Fullstack Engineer, experience of 8+ years in Ruby on Rail
 
 ### Frontend
 
-![ReactJS](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
+![ReactJS](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=FFF)&nbsp;
 ![Typescript](https://img.shields.io/badge/Typescript-FAF9F8?style=flat&logo=typescript&logoColor=3178C6)&nbsp;
 ![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=flat&logo=gatsby&logoColor=white)&nbsp;
 ![Next](https://img.shields.io/badge/NextJS-000?style=flat&logo=next.js&logoColor=white)&nbsp;
