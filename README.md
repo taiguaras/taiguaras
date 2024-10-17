@@ -46,21 +46,24 @@ Results-Driven Senior Fullstack Engineer, experience of 8+ years in Ruby on Rail
 ![GraphQL](https://img.shields.io/badge/GraphQL-de33a6?style=flat&logo=graphql&logoColor=white)&nbsp;
 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)&nbsp;
-![Ror](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)&nbsp;
+![Ror](https://img.shields.io/badge/Ruby_on_Rails-D30001?style=flat&logo=ruby-on-rails&logoColor=white)&nbsp;
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)&nbsp;
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logoColor=fff&logo=postman)&nbsp;
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logoColor=fff&logo=postgresql)&nbsp;
-![phpMyAdmin](https://img.shields.io/badge/phpmyadmin-white?logo=phpmyadmin)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logoColor=fff&logo=postgresql)&nbsp;
+![phpMyAdmin](https://img.shields.io/badge/phpmyadmin-6C78AF?logoColor=fff&logo=phpmyadmin)&nbsp;
+
+
 
 ### Devops
 
 ![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat&logo=amazonwebservices&logoColor=232F3E)&nbsp; 
-![Docker](https://img.shields.io/badge/-Docker-099cec?style=flat&logoColor=fff&logo=docker)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logoColor=fff&logo=docker)&nbsp;
 
-![Github Actions]( https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)&nbsp;
+![Github Actions]( https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)&nbsp;
 ![Bitbucket Pipelines]( https://img.shields.io/badge/Bitbucket-330F63?style=flat&logo=bitbucket&logoColor=white)&nbsp;
 ![Heroku]( https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)&nbsp;
 
@@ -76,7 +79,8 @@ Results-Driven Senior Fullstack Engineer, experience of 8+ years in Ruby on Rail
 ![Salesforce](https://img.shields.io/badge/Salesforce-009cd9?style=flat&logo=salesforce&logoColor=white)&nbsp;
 ![Intercom](https://img.shields.io/badge/Intercom-276bf2?style=flat&logo=intercom&logoColor=white)&nbsp;
 ![Hubspot](https://img.shields.io/badge/Hubspot-ec805c?style=flat&logo=hubspot&logoColor=white)&nbsp;
-![Google Optimize](https://img.shields.io/badge/Optimize-b68be9?style=flat&logo=google-optimize&logoColor=white)&nbsp;
+![Hotjar](https://img.shields.io/badge/Hotjar-FF3C00?style=flat&logo=hotjar&logoColor=white)&nbsp;
+![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=flat&logo=zapier&logoColor=white)&nbsp;
 
 <div>
    <p align="center">Social</p><br>
