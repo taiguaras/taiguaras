@@ -56,7 +56,12 @@ Results-Driven Senior Fullstack Engineer, experience of 8+ years in Ruby on Rail
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logoColor=fff&logo=postgresql)&nbsp;
 ![phpMyAdmin](https://img.shields.io/badge/phpmyadmin-6C78AF?logoColor=fff&logo=phpmyadmin)&nbsp;
 
-
+### Testing
+![React Testing Lybrary](https://img.shields.io/badge/testinglibrary-E33332?style=flat&logo=testinglibrary&logoColor=white)&nbsp;
+![rspec](https://img.shields.io/badge/rspec-4479A1?style=flat&logo=rspec&logoColor=white)&nbsp;
+![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=flat&logo=cypress&logoColor=white)&nbsp;
+![J-unit5](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)&nbsp;
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)&nbsp;
 
 ### Devops
 
