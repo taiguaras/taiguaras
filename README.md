@@ -1,6 +1,6 @@
 # Full Stack Engineer
 
-Results-Driven Senior Fullstack Engineer, experience of 8+ years in Ruby on Rails, JavaScript, PHP, Wordpress and AWS...
+Results-Driven Senior Fullstack Engineer, experience of 8+ years in Ruby on Rails, JavaScript, PHP, Wordpress and AWS.
 <hr>
 
 <a href="https://taiguaras.xyz"> Portfolio </a>
